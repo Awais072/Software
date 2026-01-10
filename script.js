@@ -27,7 +27,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once installed, launch Adobe Photoshop from your desktop or Start Menu.'
             ],
             images: ['images/photoshop-step1.jpg', 'images/photoshop-step2.jpg'],  // Add your images here
-            downloadLink: 'https://www.adobe.com/products/photoshop/free-trial-download.html'
+            downloadLink: 'https://www.mediafire.com/file/vf6demxs9k74iji/Adobe_Photoshop_-_2022.rar/file'
         },
         illustrator: {
             title: 'Illustrator',
@@ -40,7 +40,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once installed, launch Adobe Illustrator from your desktop or Start Menu.'
             ],
             images: ['images/illustrator-step1.jpg', 'images/illustrator-step2.jpg'],
-            downloadLink: 'https://www.adobe.com/products/illustrator/free-trial-download.html'
+            downloadLink: 'https://www.mediafire.com/file/5s5z4wvu6gtbn7y/Adobe_Illustrator_-_2022.rar/file'
         },
         xampp: {
             title: 'Xampp',
@@ -52,7 +52,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Open your browser and go to http://localhost/ to check if its running properly.'
             ],
             images: ['images/xampp-step1.jpg', 'images/xampp-step2.jpg'],
-            downloadLink: 'https://www.apachefriends.org/download.html'
+            downloadLink: 'https://www.mediafire.com/file/btebnesgrqv66fd/XAMPP_-_8.2.12.exe/file'
         },
         sqlserver: {
             title: 'SQL Server',
@@ -67,7 +67,7 @@ if (window.location.pathname.includes('detail.html')) {
 
             ],
             images: ['images/sqlserver-step1.jpg', 'images/sqlserver-step2.jpg'],
-            downloadLink: 'https://www.microsoft.com/en-us/sql-server/sql-server-downloads'
+            downloadLink: 'https://www.mediafire.com/file/9hav8djo0nxvwpx/SQL_Server_%2526_SSMS.zip/file'
         },
         git: {
             title: 'Git',
@@ -79,7 +79,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click next until install button, click on the install button and your installation will start.'
             ],
             images: ['images/git-step1.jpg', 'images/git-step2.jpg'],
-            downloadLink: 'https://git-scm.com/downloads'
+            downloadLink: 'https://www.mediafire.com/file/m3kilri1upldubg/Git-2.51.2-64-bit.exe/file'
         },
         nodejs: {
             title: 'Node.js',
@@ -92,7 +92,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Node.js is now installed. You can create and run JavaScript files or start building web servers using frameworks like Express.js.'
             ],
             images: ['images/nodejs-step1.jpg', 'images/nodejs-step2.jpg'],
-            downloadLink: 'https://nodejs.org/en/download/'
+            downloadLink: 'https://www.mediafire.com/file/hy2u3xg8f96r4p6/node-v24.11.0-x64.msi/file'
         },
         vscode: {
             title: 'Visual Studio Code',
@@ -105,7 +105,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Install extensions from the Extensions Marketplace (like Python, React, or Prettier) to enhance your workflow.'
             ],
             images: ['images/vscode-step1.jpg', 'images/vscode-step2.jpg'],
-            downloadLink: 'https://code.visualstudio.com/download'
+            downloadLink: 'https://www.mediafire.com/file/uy80ojboaapzzi5/VSCodeUserSetup-x64-1.105.1.exe/file'
         },
         visualstudio: {
             title: 'Microsoft Visual Studio',
@@ -119,7 +119,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Start creating a new project and choose a programming language or template.'
             ],
             images: ['images/visualstudio-step1.jpg', 'images/visualstudio-step2.jpg'],
-            downloadLink: 'https://visualstudio.microsoft.com/downloads/'
+            downloadLink: 'https://www.mediafire.com/file/dufgkdnp5niqefj/VS_Community_-_2022.exe/file'
         },
         office: {
             title: 'Microsoft Office Setup',
@@ -132,7 +132,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once the window will apear use press 2 and then 1, your office activation will be started. Once it will complete close all the tabs and open the word, excel or powerpoint, your office will be activated.'
             ],
             images: ['images/office-step1.jpg', 'images/office-step2.jpg'],
-            downloadLink: 'https://www.microsoft.com/en-us/microsoft-365/download-office'
+            downloadLink: 'https://www.mediafire.com/file/hbglvtqlvksocfb/microsoft-office-2021.exe/file'
         },
         winrar: {
             title: 'Winrar',
@@ -144,7 +144,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Use advanced options for encryption if needed.'
             ],
             images: ['images/winrar-step1.jpg', 'images/winrar-step2.jpg'],
-            downloadLink: 'https://www.win-rar.com/download.html'
+            downloadLink: 'https://www.mediafire.com/file/n4ad8o81x7vz560/winrar-x64-713.exe/file'
         },
         chrome: {
             title: 'Google Chrome',
@@ -155,7 +155,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Set as default browser and start browsing.'
             ],
             images: ['images/chrome-step1.jpg', 'images/chrome-step2.jpg'],
-            downloadLink: 'https://www.google.com/chrome/'
+            downloadLink: 'https://www.mediafire.com/file/qh14xjbg4mq0357/ChromeSetup.exe/file'
         },
         flutter: {
             title: 'Flutter',
@@ -167,7 +167,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Also check you have a git download in your system and same paste the bin and cmd folder path in your environment path.'
             ],
             images: ['images/flutter-step1.jpg', 'images/flutter-step2.jpg'],
-            downloadLink: 'https://flutter.dev/docs/get-started/install'
+            downloadLink: 'https://www.mediafire.com/file/haivn2yzg8yqz64/Flutter_-_3.29.3.zip/file'
         },
         windows11: {
             title: 'Windows 11 ISO',
@@ -179,7 +179,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click the start button and your bootable usb will start.'
             ],
             images: ['images/windows11-step1.jpg', 'images/windows11-step2.jpg'],
-            downloadLink: 'https://www.microsoft.com/en-us/software-download/windows11'
+            downloadLink: 'https://www.mediafire.com/file/mssrd1c8y0swxe2/Windows_11_-_24H2.iso/file'
         },
         windows10: {
             title: 'Windows 10 ISO',
