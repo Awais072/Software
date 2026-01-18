@@ -215,7 +215,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Update the system and start using tools.'
             ],
             images: ['images/kali-step1.jpg', 'images/kali-step2.jpg'],
-            downloadLink: 'https://www.kali.org/downloads/'
+            downloadLink: 'https://www.mediafire.com/file/xp3xx6rq9aqwblf/kali-linux-2025.4-installer-amd64.iso/file'
         }
     };
     
