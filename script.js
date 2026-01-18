@@ -203,7 +203,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Install an OS inside the VM.'
             ],
             images: ['images/virtualbox-step1.jpg', 'images/virtualbox-step2.jpg'],
-            downloadLink: 'https://www.virtualbox.org/wiki/Downloads'
+            downloadLink: 'https://www.mediafire.com/file/mbt5cmeqkpw8qd2/VirtualBox-7.2.4-170995-Win.exe/file'
         },
         kali: {
             title: 'Kali Linux Setup',
