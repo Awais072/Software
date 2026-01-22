@@ -108,3 +108,22 @@ header {
 #download-btn:hover {
     background-color: #218838;
 }
+
+.back-home-btn {
+    position: fixed;  /* Makes it float and stay in place during scrolling */
+    bottom: 20px;    /* Distance from the bottom of the viewport */
+    right: 20px;     /* Distance from the right edge of the viewport */
+    z-index: 1000;   /* Ensures it stays above other content */
+    margin-left: 0;  /* Remove the previous margin since it's now fixed */
+    background-color: #6c757d;  /* Gray background */
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;  /* Slightly larger for better touch/click */
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);  /* Subtle shadow for depth */
+}
+
+.back-home-btn:hover {
+    background-color: #5a6268;  /* Darker gray on hover */
+}
