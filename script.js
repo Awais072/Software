@@ -26,7 +26,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Follow the on-screen instructions to complete the installation.',
                 'Once installed, launch Adobe Photoshop from your desktop or Start Menu.'
             ],
-            images: ['images/photoshop-step1.jpg', 'images/photoshop-step2.jpg'],  // Add your images here
+            images: ['img/photoshop/1.png', 'img/photoshop/2.png', 'img/photoshop/3.png', 'img/photoshop/4.png', 'img/photoshop/5.png'],  // Add your images here
             downloadLink: 'https://www.mediafire.com/file/vf6demxs9k74iji/Adobe_Photoshop_-_2022.rar/file'
         },
         illustrator: {
@@ -39,7 +39,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Follow the on-screen instructions to complete the installation.',
                 'Once installed, launch Adobe Illustrator from your desktop or Start Menu.'
             ],
-            images: ['images/illustrator-step1.jpg', 'images/illustrator-step2.jpg'],
+            images: ['img/Illustrator/1.png', 'img/Illustrator/2.png', 'img/Illustrator/3.png', 'img/Illustrator/4.png'],
             downloadLink: 'https://www.mediafire.com/file/5s5z4wvu6gtbn7y/Adobe_Illustrator_-_2022.rar/file'
         },
         xampp: {
@@ -51,7 +51,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Start Apache and MySQL modules to begin using your local server.',
                 'Open your browser and go to http://localhost/ to check if its running properly.'
             ],
-            images: ['images/xampp-step1.jpg', 'images/xampp-step2.jpg'],
+            images: ['img/xampp/1.png', 'img/xampp/2.png', 'img/xampp/3.png', 'img/xampp/4.png', 'img/xampp/5.png', 'img/xampp/6.png'],
             downloadLink: 'https://www.mediafire.com/file/btebnesgrqv66fd/XAMPP_-_8.2.12.exe/file'
         },
         sqlserver: {
@@ -66,7 +66,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click the ssms.exe file and simply installed the SSMS and once the installation complete open the ssms and connect your database'
 
             ],
-            images: ['images/sqlserver-step1.jpg', 'images/sqlserver-step2.jpg'],
+            images: ['img/SQL_Server/1.png', 'img/SQL_Server/2.png', 'img/SQL_Server/3.png', 'img/SQL_Server/4.png', 'img/SQL_Server/5.png', 'img/SQL_Server/6.png', 'img/SQL_Server/7.png', 'img/SQL_Server/8.png', 'img/SQL_Server/9.png', 'img/SQL_Server/10.png', 'img/SQL_Server/11.png', 'img/SQL_Server/12.png', 'img/SQL_Server/13.png', 'img/SQL_Server/14.png', 'img/SQL_Server/15.png', 'img/SQL_Server/16.png', 'img/SQL_Server/17.png', 'img/SQL_Server/18.png', 'img/SQL_Server/19.png', 'img/SQL_Server/20.png', 'img/SQL_Server/21.png', 'img/SQL_Server/22.png', 'img/SQL_Server/23.png', 'img/SQL_Server/24.png', 'img/SQL_Server/25.png'],
             downloadLink: 'https://www.mediafire.com/file/9hav8djo0nxvwpx/SQL_Server_%2526_SSMS.zip/file'
         },
         git: {
@@ -104,7 +104,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click Install, wait for the process to complete, and then launch VS Code.',
                 'Install extensions from the Extensions Marketplace (like Python, React, or Prettier) to enhance your workflow.'
             ],
-            images: ['images/vscode-step1.jpg', 'images/vscode-step2.jpg'],
+            images: ['img/vscode/1.png', 'img/vscode/2.png', 'img/vscode/3.png', 'img/vscode/4.png'],
             downloadLink: 'https://www.mediafire.com/file/uy80ojboaapzzi5/VSCodeUserSetup-x64-1.105.1.exe/file'
         },
         visualstudio: {
@@ -118,7 +118,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once installed, open Visual Studio and sign in with your Microsoft account.(Optional)',
                 'Start creating a new project and choose a programming language or template.'
             ],
-            images: ['images/visualstudio-step1.jpg', 'images/visualstudio-step2.jpg'],
+            images: ['img/visualstudio/1.png', 'img/visualstudio/2.png', 'img/visualstudio/3.png', 'img/visualstudio/4.png'],
             downloadLink: 'https://www.mediafire.com/file/dufgkdnp5niqefj/VS_Community_-_2022.exe/file'
         },
         office: {
@@ -143,7 +143,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once the installation will be complete click the finished/OK button, Now you can compress your files and extrat also.',
                 'Use advanced options for encryption if needed.'
             ],
-            images: ['images/winrar-step1.jpg', 'images/winrar-step2.jpg'],
+            images: ['img/winrar/1.png', 'img/winrar/2.png'],
             downloadLink: 'https://www.mediafire.com/file/n4ad8o81x7vz560/winrar-x64-713.exe/file'
         },
         chrome: {
