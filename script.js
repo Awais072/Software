@@ -78,7 +78,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click next and and select the location you want to install. (Recommended: C:\Program Files)',
                 'Click next until install button, click on the install button and your installation will start.'
             ],
-            images: ['images/git-step1.jpg', 'images/git-step2.jpg'],
+            images: ['img/Git/1.png', 'img/Git/2.png', 'img/Git/3.png', 'img/Git/4.png', 'img/Git/5.png', 'img/Git/6.png', 'img/Git/7.png', 'img/Git/8.png', 'img/Git/9.png', 'img/Git/10.png', 'img/Git/11.png'],
             downloadLink: 'https://www.mediafire.com/file/m3kilri1upldubg/Git-2.51.2-64-bit.exe/file'
         },
         nodejs: {
