@@ -154,7 +154,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Double click the setup and wait for the installation will start automatically (Internet Required)',
                 'Set as default browser and start browsing.'
             ],
-            images: ['images/chrome-step1.jpg', 'images/chrome-step2.jpg'],
+            images: ['img/chrome/1.png'],
             downloadLink: 'https://www.mediafire.com/file/qh14xjbg4mq0357/ChromeSetup.exe/file'
         },
         flutter: {
