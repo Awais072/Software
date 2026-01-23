@@ -139,7 +139,7 @@ if (window.location.pathname.includes('detail.html')) {
             description: 'WinRAR is a powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP, and other files downloaded from the Internet.',
             steps: [
                 'Click the download button below to get the Winrar setup',
-                'Double click to the setuo to start the installation',
+                'Double click to the setup to start the installation',
                 'Once the installation will be complete click the finished/OK button, Now you can compress your files and extrat also.',
                 'Use advanced options for encryption if needed.'
             ],
