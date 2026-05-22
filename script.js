@@ -256,3 +256,15 @@ if (window.location.pathname.includes('detail.html')) {
         document.getElementById('download-btn').style.display = 'none';
     }
 }
+
+// WhatsApp Menu Toggle
+
+function toggleWhatsAppMenu() {
+    const menu = document.getElementById('whatsappOptions');
+
+    if (menu.style.display === 'flex') {
+        menu.style.display = 'none';
+    } else {
+        menu.style.display = 'flex';
+    }
+}
