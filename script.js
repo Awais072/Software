@@ -27,7 +27,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once installed, launch Adobe Photoshop from your desktop or Start Menu.'
             ],
             images: ['img/photoshop/1.png', 'img/photoshop/2.png', 'img/photoshop/3.png', 'img/photoshop/4.png', 'img/photoshop/5.png'],  // Add your images here
-            downloadLink: 'https://www.mediafire.com/file/vf6demxs9k74iji/Adobe_Photoshop_-_2022.rar/file'
+            downloadLink: 'https://shrinkme.click/photoshopsoftware'
         },
         illustrator: {
             title: 'Illustrator',
@@ -40,7 +40,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once installed, launch Adobe Illustrator from your desktop or Start Menu.'
             ],
             images: ['img/Illustrator/1.png', 'img/Illustrator/2.png', 'img/Illustrator/3.png', 'img/Illustrator/4.png'],
-            downloadLink: 'https://www.mediafire.com/file/5s5z4wvu6gtbn7y/Adobe_Illustrator_-_2022.rar/file'
+            downloadLink: 'https://shrinkme.click/illustratorsoftware'
         },
         xampp: {
             title: 'Xampp',
@@ -52,7 +52,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Open your browser and go to http://localhost/ to check if its running properly.'
             ],
             images: ['img/xampp/1.png', 'img/xampp/2.png', 'img/xampp/3.png', 'img/xampp/4.png', 'img/xampp/5.png', 'img/xampp/6.png'],
-            downloadLink: 'https://www.mediafire.com/file/btebnesgrqv66fd/XAMPP_-_8.2.12.exe/file'
+            downloadLink: 'https://shrinkme.click/xamppsoftware'
         },
         sqlserver: {
             title: 'SQL Server',
@@ -67,7 +67,7 @@ if (window.location.pathname.includes('detail.html')) {
 
             ],
             images: ['img/SQL_Server/1.png', 'img/SQL_Server/2.png', 'img/SQL_Server/3.png', 'img/SQL_Server/4.png', 'img/SQL_Server/5.png', 'img/SQL_Server/6.png', 'img/SQL_Server/7.png', 'img/SQL_Server/8.png', 'img/SQL_Server/9.png', 'img/SQL_Server/10.png', 'img/SQL_Server/11.png', 'img/SQL_Server/12.png', 'img/SQL_Server/13.png', 'img/SQL_Server/14.png', 'img/SQL_Server/15.png', 'img/SQL_Server/16.png', 'img/SQL_Server/17.png', 'img/SQL_Server/18.png', 'img/SQL_Server/19.png', 'img/SQL_Server/20.png', 'img/SQL_Server/21.png', 'img/SQL_Server/22.png', 'img/SQL_Server/23.png', 'img/SQL_Server/24.png', 'img/SQL_Server/25.png'],
-            downloadLink: 'https://www.mediafire.com/file/9hav8djo0nxvwpx/SQL_Server_%2526_SSMS.zip/file'
+            downloadLink: 'https://shrinkme.click/sqlserver'
         },
         git: {
             title: 'Git',
@@ -79,7 +79,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click next until install button, click on the install button and your installation will start.'
             ],
             images: ['img/Git/1.png', 'img/Git/2.png', 'img/Git/3.png', 'img/Git/4.png', 'img/Git/5.png', 'img/Git/6.png', 'img/Git/7.png', 'img/Git/8.png', 'img/Git/9.png', 'img/Git/10.png', 'img/Git/11.png'],
-            downloadLink: 'https://www.mediafire.com/file/m3kilri1upldubg/Git-2.51.2-64-bit.exe/file'
+            downloadLink: 'https://shrinkme.click/gitsoftware'
         },
         nodejs: {
             title: 'Node.js',
@@ -92,7 +92,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Node.js is now installed. You can create and run JavaScript files or start building web servers using frameworks like Express.js.'
             ],
             images: ['images/nodejs-step1.jpg', 'images/nodejs-step2.jpg'],
-            downloadLink: 'https://www.mediafire.com/file/hy2u3xg8f96r4p6/node-v24.11.0-x64.msi/file'
+            downloadLink: 'https://shrinkme.click/nodejssoftware'
         },
         vscode: {
             title: 'Visual Studio Code',
@@ -105,7 +105,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Install extensions from the Extensions Marketplace (like Python, React, or Prettier) to enhance your workflow.'
             ],
             images: ['img/vscode/1.png', 'img/vscode/2.png', 'img/vscode/3.png', 'img/vscode/4.png'],
-            downloadLink: 'https://www.mediafire.com/file/uy80ojboaapzzi5/VSCodeUserSetup-x64-1.105.1.exe/file'
+            downloadLink: 'https://shrinkme.click/vscode'
         },
         visualstudio: {
             title: 'Microsoft Visual Studio',
@@ -119,7 +119,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Start creating a new project and choose a programming language or template.'
             ],
             images: ['img/visualstudio/1.png', 'img/visualstudio/2.png', 'img/visualstudio/3.png', 'img/visualstudio/4.png'],
-            downloadLink: 'https://www.mediafire.com/file/dufgkdnp5niqefj/VS_Community_-_2022.exe/file'
+            downloadLink: 'https://shrinkme.click/visualstudio'
         },
         office: {
             title: 'Microsoft Office Setup',
@@ -132,7 +132,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Once the window will apear use press 2 and then 1, your office activation will be started. Once it will complete close all the tabs and open the word, excel or powerpoint, your office will be activated.'
             ],
             images: ['images/office-step1.jpg', 'images/office-step2.jpg'],
-            downloadLink: 'https://www.mediafire.com/file/hbglvtqlvksocfb/microsoft-office-2021.exe/file'
+            downloadLink: 'https://shrinkme.click/office2021setup'
         },
         winrar: {
             title: 'Winrar',
@@ -144,7 +144,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Use advanced options for encryption if needed.'
             ],
             images: ['img/winrar/1.png', 'img/winrar/2.png'],
-            downloadLink: 'https://www.mediafire.com/file/n4ad8o81x7vz560/winrar-x64-713.exe/file'
+            downloadLink: 'https://shrinkme.click/winrarsoftware'
         },
         chrome: {
             title: 'Google Chrome',
@@ -155,7 +155,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Set as default browser and start browsing.'
             ],
             images: ['img/chrome/1.png'],
-            downloadLink: 'https://www.mediafire.com/file/qh14xjbg4mq0357/ChromeSetup.exe/file'
+            downloadLink: 'https://shrinkme.click/chrome'
         },
         flutter: {
             title: 'Flutter',
@@ -167,7 +167,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Also check you have a git download in your system and same paste the bin and cmd folder path in your environment path.'
             ],
             images: ['images/flutter-step1.jpg', 'images/flutter-step2.jpg'],
-            downloadLink: 'https://www.mediafire.com/file/haivn2yzg8yqz64/Flutter_-_3.29.3.zip/file'
+            downloadLink: 'https://shrinkme.click/flutter'
         },
         windows11: {
             title: 'Windows 11 ISO',
@@ -179,7 +179,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click the start button and your bootable usb will start.'
             ],
             images: ['images/windows11-step1.jpg', 'images/windows11-step2.jpg'],
-            downloadLink: 'https://www.mediafire.com/file/mssrd1c8y0swxe2/Windows_11_-_24H2.iso/file'
+            downloadLink: 'https://shrinkme.click/windows11'
         },
         windows10: {
             title: 'Windows 10 ISO',
@@ -191,7 +191,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Click the start button and your bootable usb will start.'
             ],
             images: ['images/windows10-step1.jpg', 'images/windows10-step2.jpg'],
-            downloadLink: 'https://www.microsoft.com/en-us/software-download/windows10ISO'
+            downloadLink: 'https://shrinkme.click/windows10iso'
         },
         virtualbox: {
             title: 'Virtual Box',
@@ -203,7 +203,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Install an OS inside the VM.'
             ],
             images: ['images/virtualbox-step1.jpg', 'images/virtualbox-step2.jpg'],
-            downloadLink: 'https://www.mediafire.com/file/mbt5cmeqkpw8qd2/VirtualBox-7.2.4-170995-Win.exe/file'
+            downloadLink: 'https://shrinkme.click/virtualbox'
         },
         kali: {
             title: 'Kali Linux Setup',
@@ -215,7 +215,7 @@ if (window.location.pathname.includes('detail.html')) {
                 'Update the system and start using tools.'
             ],
             images: ['images/kali-step1.jpg', 'images/kali-step2.jpg'],
-            downloadLink: 'https://www.mediafire.com/file/xp3xx6rq9aqwblf/kali-linux-2025.4-installer-amd64.iso/file'
+            downloadLink: 'https://shrinkme.click/kalilinuxiso'
         }
     };
     
