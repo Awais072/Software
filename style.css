@@ -127,3 +127,51 @@ header {
 .back-home-btn:hover {
     background-color: #5a6268;  /* Darker gray on hover */
 }
+
+/* WhatsApp Floating Menu */
+
+.whatsapp-wrapper {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000;
+}
+
+.whatsapp-toggle {
+    background-color: #25D366;
+    color: white;
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 30px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: 0.3s;
+}
+
+.whatsapp-toggle:hover {
+    background-color: #1ebe5d;
+    transform: scale(1.1);
+}
+
+.whatsapp-options {
+    display: none;
+    flex-direction: column;
+    margin-bottom: 10px;
+    gap: 10px;
+}
+
+.whatsapp-options a {
+    background-color: white;
+    color: #333;
+    padding: 10px 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    font-weight: bold;
+}
+
+.whatsapp-options a:hover {
+    background-color: #f1f1f1;
+}
